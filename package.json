@@ -1,0 +1,16 @@
+{
+    "name": "Gaster",
+    "version": "1.0.0",
+    "description": "A quiet administrative bot for The Core.",
+    "main": "bot.js",
+    "author": "SeerSorin",
+    "license": "ISC",
+    "dependencies": {
+        "discord.js": "^12.2.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/SeerSorin/GasterBot.git"
+    },
+    "homepage": "https://github.com/SeerSorin/GasterBot#readme"
+}
